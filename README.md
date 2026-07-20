@@ -1,1 +1,1 @@
-# capstone-project-week-one
+My capstone Git practice project
