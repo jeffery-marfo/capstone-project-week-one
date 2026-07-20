@@ -1,1 +1,1 @@
-My capstone Git practice project
+My capstone Git practice project - version A
